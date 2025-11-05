@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Garden Designer",
+  "description": "An application that helps you design your dream garden. Upload an image of your space and use text prompts to edit it, generating new layouts and plant visuals with the power of Gemini.",
+  "requestFramePermissions": []
+}
